@@ -1,0 +1,1128 @@
+[
+  {
+    "name": "AddressDisruptor1",
+    "requiredPowers": [
+      12,
+      68,
+      1028,
+      32768
+    ],
+    "id": 11
+  },
+  {
+    "name": "AddressDisruptor2",
+    "requiredPowers": [
+      268,
+      208,
+      1152,
+      32768
+    ],
+    "id": 47
+  },
+  {
+    "name": "BlackCoat",
+    "requiredPowers": [
+      356,
+      1060,
+      32768
+    ],
+    "id": 67
+  },
+  {
+    "name": "BreachSuppressor",
+    "requiredPowers": [
+      13440,
+      45184
+    ],
+    "id": 105
+  },
+  {
+    "name": "DataDisruptor",
+    "requiredPowers": [
+      0
+    ],
+    "id": 1
+  },
+  {
+    "name": "DataGrenade",
+    "requiredPowers": [
+      5248,
+      36992
+    ],
+    "id": 96
+  },
+  {
+    "name": "DistortionField",
+    "requiredPowers": [
+      539776,
+      571520
+    ],
+    "id": 94
+  },
+  {
+    "name": "Drill",
+    "requiredPowers": [
+      2,
+      513,
+      129,
+      1028,
+      32768
+    ],
+    "id": 4
+  },
+  {
+    "name": "DroneGun",
+    "requiredPowers": [
+      116,
+      32768
+    ],
+    "id": 34
+  },
+  {
+    "name": "DroneTeleport",
+    "requiredPowers": [
+      3232
+    ],
+    "id": 92
+  },
+  {
+    "name": "EnhancedLaunch",
+    "requiredPowers": [
+      868,
+      1796,
+      33540,
+      12480
+    ],
+    "id": 66
+  },
+  {
+    "name": "FireWall",
+    "requiredPowers": [
+      152,
+      60,
+      208,
+      116,
+      1028,
+      32768
+    ],
+    "id": 21
+  },
+  {
+    "name": "FlameThrower",
+    "requiredPowers": [
+      102528
+    ],
+    "id": 123
+  },
+  {
+    "name": "GlitchBomb",
+    "requiredPowers": [
+      1060,
+      32768
+    ],
+    "id": 83
+  },
+  {
+    "name": "GlitchTeleport",
+    "requiredPowers": [
+      60,
+      116,
+      1028,
+      32768
+    ],
+    "id": 24
+  },
+  {
+    "name": "Grapple",
+    "requiredPowers": [
+      480,
+      1028,
+      32768
+    ],
+    "id": 54
+  },
+  {
+    "name": "HighJump",
+    "requiredPowers": [
+      28,
+      84,
+      1044,
+      32768
+    ],
+    "id": 20
+  },
+  {
+    "name": "InertialPulse",
+    "requiredPowers": [
+      268,
+      324,
+      1284,
+      32768
+    ],
+    "id": 50
+  },
+  {
+    "name": "IonBeam",
+    "requiredPowers": [
+      32768
+    ],
+    "id": 109
+  },
+  {
+    "name": "Kilver",
+    "requiredPowers": [
+      4,
+      32768
+    ],
+    "id": 9
+  },
+  {
+    "name": "LightningGun",
+    "requiredPowers": [
+      2176,
+      34816
+    ],
+    "id": 85
+  },
+  {
+    "name": "MultiDisruptor",
+    "requiredPowers": [
+      6,
+      128,
+      516,
+      1028,
+      32768
+    ],
+    "id": 6
+  },
+  {
+    "name": "Nova",
+    "requiredPowers": [
+      1
+    ],
+    "id": 2
+  },
+  {
+    "name": "PasswordTool",
+    "requiredPowers": [
+      152,
+      208,
+      1028,
+      32768
+    ],
+    "id": 40
+  },
+  {
+    "name": "RedCoat",
+    "requiredPowers": [
+      29824,
+      45184
+    ],
+    "id": 108
+  },
+  {
+    "name": "Reflect",
+    "requiredPowers": [
+      752,
+      1664,
+      33408,
+      4288
+    ],
+    "id": 65
+  },
+  {
+    "name": "Scythe",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 118
+  },
+  {
+    "name": "Shards",
+    "requiredPowers": [
+      3076,
+      2148,
+      6336
+    ],
+    "id": 90
+  },
+  {
+    "name": "Swim",
+    "requiredPowers": [
+      78976,
+      110720
+    ],
+    "id": 124
+  },
+  {
+    "name": "TendrilsBottom",
+    "requiredPowers": [
+      13440,
+      45184
+    ],
+    "id": 101
+  },
+  {
+    "name": "TendrilsTop",
+    "requiredPowers": [
+      60,
+      1028,
+      32768
+    ],
+    "id": 29
+  },
+  {
+    "name": "TetheredCharge",
+    "requiredPowers": [
+      1076,
+      1556,
+      5264,
+      32784,
+      263172,
+      294912
+    ],
+    "id": 58
+  },
+  {
+    "name": "TriCone",
+    "requiredPowers": [
+      536768,
+      537728,
+      569472
+    ],
+    "id": 97
+  },
+  {
+    "name": "VerticalSpread",
+    "requiredPowers": [
+      240,
+      1152,
+      32768
+    ],
+    "id": 45
+  },
+  {
+    "name": "Voranj",
+    "requiredPowers": [
+      152,
+      208,
+      1152,
+      32896
+    ],
+    "id": 43
+  },
+  {
+    "name": "WallTrace",
+    "requiredPowers": [
+      69760,
+      98336,
+      98816
+    ],
+    "id": 121
+  },
+  {
+    "name": "HealthNode1",
+    "requiredPowers": [
+      4,
+      32768
+    ],
+    "id": 7
+  },
+  {
+    "name": "HealthNode2",
+    "requiredPowers": [
+      28,
+      84,
+      1028,
+      32768
+    ],
+    "id": 14
+  },
+  {
+    "name": "HealthNode3",
+    "requiredPowers": [
+      116,
+      1044
+    ],
+    "id": 32
+  },
+  {
+    "name": "HealthNode4",
+    "requiredPowers": [
+      356,
+      1028,
+      32768
+    ],
+    "id": 53
+  },
+  {
+    "name": "HealthNode5",
+    "requiredPowers": [
+      356,
+      1316,
+      1796,
+      32768
+    ],
+    "id": 77
+  },
+  {
+    "name": "HealthNode6",
+    "requiredPowers": [
+      3108,
+      7296,
+      13440,
+      34848,
+      39040,
+      45184
+    ],
+    "id": 88
+  },
+  {
+    "name": "HealthNode7",
+    "requiredPowers": [
+      7296,
+      39040
+    ],
+    "id": 99
+  },
+  {
+    "name": "HealthNode8",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 112
+  },
+  {
+    "name": "HealthNode9",
+    "requiredPowers": [
+      2592,
+      3072,
+      2208,
+      6272,
+      34816
+    ],
+    "id": 84
+  },
+  {
+    "name": "HealthNodeFragment1",
+    "requiredPowers": [
+      4,
+      32768
+    ],
+    "id": 8
+  },
+  {
+    "name": "HealthNodeFragment2",
+    "requiredPowers": [
+      20,
+      128,
+      1028,
+      32768
+    ],
+    "id": 12
+  },
+  {
+    "name": "HealthNodeFragment3",
+    "requiredPowers": [
+      28,
+      84,
+      1028,
+      32768
+    ],
+    "id": 18
+  },
+  {
+    "name": "HealthNodeFragment4",
+    "requiredPowers": [
+      12,
+      68,
+      1028,
+      32768
+    ],
+    "id": 10
+  },
+  {
+    "name": "HealthNodeFragment5",
+    "requiredPowers": [
+      152,
+      208,
+      1028,
+      32768
+    ],
+    "id": 39
+  },
+  {
+    "name": "HealthNodeFragment6",
+    "requiredPowers": [
+      604,
+      1028,
+      32768
+    ],
+    "id": 38
+  },
+  {
+    "name": "HealthNodeFragment7",
+    "requiredPowers": [
+      124,
+      1028,
+      32768
+    ],
+    "id": 30
+  },
+  {
+    "name": "HealthNodeFragment8",
+    "requiredPowers": [
+      240,
+      1152,
+      32896
+    ],
+    "id": 46
+  },
+  {
+    "name": "HealthNodeFragment9",
+    "requiredPowers": [
+      480,
+      1408,
+      32896
+    ],
+    "id": 52
+  },
+  {
+    "name": "HealthNodeFragment10",
+    "requiredPowers": [
+      152,
+      208,
+      1152,
+      32896
+    ],
+    "id": 44
+  },
+  {
+    "name": "HealthNodeFragment11",
+    "requiredPowers": [
+      868,
+      1028,
+      32768
+    ],
+    "id": 61
+  },
+  {
+    "name": "HealthNodeFragment12",
+    "requiredPowers": [
+      752,
+      1664
+    ],
+    "id": 60
+  },
+  {
+    "name": "HealthNodeFragment13",
+    "requiredPowers": [
+      896,
+      32768
+    ],
+    "id": 56
+  },
+  {
+    "name": "HealthNodeFragment14",
+    "requiredPowers": [
+      60,
+      116,
+      1028,
+      32768
+    ],
+    "id": 23
+  },
+  {
+    "name": "HealthNodeFragment15",
+    "requiredPowers": [
+      772,
+      1284,
+      33028,
+      4480
+    ],
+    "id": 125
+  },
+  {
+    "name": "HealthNodeFragment16",
+    "requiredPowers": [
+      1920,
+      32896
+    ],
+    "id": 76
+  },
+  {
+    "name": "HealthNodeFragment17",
+    "requiredPowers": [
+      29824,
+      45184
+    ],
+    "id": 107
+  },
+  {
+    "name": "HealthNodeFragment19",
+    "requiredPowers": [
+      1572,
+      537728,
+      569472
+    ],
+    "id": 93
+  },
+  {
+    "name": "HealthNodeFragment18",
+    "requiredPowers": [
+      1316,
+      4544,
+      1316,
+      1796,
+      32768
+    ],
+    "id": 80
+  },
+  {
+    "name": "HealthNodeFragment20",
+    "requiredPowers": [
+      13440,
+      45184
+    ],
+    "id": 102
+  },
+  {
+    "name": "PowerNode1",
+    "requiredPowers": [
+      6,
+      128,
+      516,
+      1028,
+      32768
+    ],
+    "id": 5
+  },
+  {
+    "name": "PowerNode2",
+    "requiredPowers": [
+      28,
+      84,
+      1028,
+      32768
+    ],
+    "id": 19
+  },
+  {
+    "name": "PowerNode3",
+    "requiredPowers": [
+      116,
+      1028,
+      32768
+    ],
+    "id": 33
+  },
+  {
+    "name": "PowerNode4",
+    "requiredPowers": [
+      868,
+      1796,
+      1408,
+      32768
+    ],
+    "id": 62
+  },
+  {
+    "name": "PowerNode5",
+    "requiredPowers": [
+      3108,
+      7296,
+      13440,
+      34848,
+      39040,
+      45184
+    ],
+    "id": 87
+  },
+  {
+    "name": "PowerNode6",
+    "requiredPowers": [
+      29824,
+      45184
+    ],
+    "id": 106
+  },
+  {
+    "name": "PowerNodeFragment1",
+    "requiredPowers": [
+      572,
+      9376,
+      41088,
+      33280
+    ],
+    "id": 57
+  },
+  {
+    "name": "PowerNodeFragment2",
+    "requiredPowers": [
+      69760,
+      98336,
+      98816
+    ],
+    "id": 122
+  },
+  {
+    "name": "PowerNodeFragment3",
+    "requiredPowers": [
+      128,
+      516,
+      32768
+    ],
+    "id": 36
+  },
+  {
+    "name": "PowerNodeFragment4",
+    "requiredPowers": [
+      2564,
+      3108,
+      34816,
+      6272
+    ],
+    "id": 86
+  },
+  {
+    "name": "PowerNodeFragment5",
+    "requiredPowers": [
+      384,
+      1316,
+      772
+    ],
+    "id": 48
+  },
+  {
+    "name": "PowerNodeFragment6",
+    "requiredPowers": [
+      416,
+      8576,
+      1408
+    ],
+    "id": 49
+  },
+  {
+    "name": "PowerNodeFragment7",
+    "requiredPowers": [
+      28,
+      84,
+      1044,
+      32768
+    ],
+    "id": 13
+  },
+  {
+    "name": "PowerNodeFragment8",
+    "requiredPowers": [
+      300,
+      356,
+      1060,
+      1284
+    ],
+    "id": 51
+  },
+  {
+    "name": "PowerNodeFragment9",
+    "requiredPowers": [
+      1060,
+      1540,
+      32768
+    ],
+    "id": 69
+  },
+  {
+    "name": "PowerNodeFragment10",
+    "requiredPowers": [
+      263172,
+      32768
+    ],
+    "id": 110
+  },
+  {
+    "name": "PowerNodeFragment11",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 113
+  },
+  {
+    "name": "PowerNodeFragment12",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 115
+  },
+  {
+    "name": "PowerNodeFragment13",
+    "requiredPowers": [
+      480,
+      960,
+      1920,
+      32896
+    ],
+    "id": 75
+  },
+  {
+    "name": "PowerNodeFragment14",
+    "requiredPowers": [
+      868,
+      1796,
+      33540,
+      12480
+    ],
+    "id": 64
+  },
+  {
+    "name": "PowerNodeFragment15",
+    "requiredPowers": [
+      1060,
+      5248,
+      1540,
+      32768
+    ],
+    "id": 74
+  },
+  {
+    "name": "PowerNodeFragment16",
+    "requiredPowers": [
+      4288,
+      5248,
+      36992,
+      32800,
+      33280
+    ],
+    "id": 71
+  },
+  {
+    "name": "PowerNodeFragment17",
+    "requiredPowers": [
+      7296,
+      39040
+    ],
+    "id": 100
+  },
+  {
+    "name": "PowerNodeFragment18",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 111
+  },
+  {
+    "name": "SizeNode1",
+    "requiredPowers": [
+      2,
+      128,
+      512,
+      1024,
+      32768
+    ],
+    "id": 3
+  },
+  {
+    "name": "SizeNode2",
+    "requiredPowers": [
+      28,
+      84,
+      1028,
+      32768
+    ],
+    "id": 15
+  },
+  {
+    "name": "SizeNode3",
+    "requiredPowers": [
+      60,
+      540,
+      1028,
+      32768
+    ],
+    "id": 31
+  },
+  {
+    "name": "SizeNode4",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 116
+  },
+  {
+    "name": "RangeNode1",
+    "requiredPowers": [
+      124,
+      152,
+      1028,
+      32768
+    ],
+    "id": 27
+  },
+  {
+    "name": "RangeNode2",
+    "requiredPowers": [
+      124,
+      1028,
+      32768
+    ],
+    "id": 28
+  },
+  {
+    "name": "RangeNode3",
+    "requiredPowers": [
+      1184
+    ],
+    "id": 89
+  },
+  {
+    "name": "RangeNode4",
+    "requiredPowers": [
+      448,
+      1408,
+      33152,
+      33056
+    ],
+    "id": 68
+  },
+  {
+    "name": "Note1",
+    "requiredPowers": [
+      13440,
+      45184
+    ],
+    "id": 103
+  },
+  {
+    "name": "Note2",
+    "requiredPowers": [
+      4224
+    ],
+    "id": 95
+  },
+  {
+    "name": "Note3",
+    "requiredPowers": [
+      13440,
+      45184
+    ],
+    "id": 104
+  },
+  {
+    "name": "Note4",
+    "requiredPowers": [
+      7296,
+      32768
+    ],
+    "id": 98
+  },
+  {
+    "name": "Note5",
+    "requiredPowers": [
+      3076,
+      32768
+    ],
+    "id": 91
+  },
+  {
+    "name": "Note6",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 114
+  },
+  {
+    "name": "Note7",
+    "requiredPowers": [
+      68,
+      1028,
+      32768
+    ],
+    "id": 26
+  },
+  {
+    "name": "Note8",
+    "requiredPowers": [
+      868,
+      4548,
+      1316,
+      1796,
+      32800
+    ],
+    "id": 78
+  },
+  {
+    "name": "Note9",
+    "requiredPowers": [
+      1028,
+      32768
+    ],
+    "id": 72
+  },
+  {
+    "name": "Note10",
+    "requiredPowers": [
+      60,
+      116,
+      1028,
+      32768
+    ],
+    "id": 22
+  },
+  {
+    "name": "Note11",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 120
+  },
+  {
+    "name": "Note12",
+    "requiredPowers": [
+      12480,
+      13440,
+      45184
+    ],
+    "id": 70
+  },
+  {
+    "name": "Note13",
+    "requiredPowers": [
+      752,
+      1664
+    ],
+    "id": 59
+  },
+  {
+    "name": "Note14",
+    "requiredPowers": [
+      68,
+      1028,
+      32768
+    ],
+    "id": 25
+  },
+  {
+    "name": "Note15",
+    "requiredPowers": [
+      28,
+      84,
+      1028,
+      32768
+    ],
+    "id": 16
+  },
+  {
+    "name": "Note16",
+    "requiredPowers": [
+      128
+    ],
+    "id": 35
+  },
+  {
+    "name": "Note17",
+    "requiredPowers": [
+      868,
+      1796,
+      33540,
+      12480
+    ],
+    "id": 63
+  },
+  {
+    "name": "Note18",
+    "requiredPowers": [
+      1060,
+      32768
+    ],
+    "id": 81
+  },
+  {
+    "name": "Note19",
+    "requiredPowers": [
+      152,
+      208,
+      1028,
+      32768
+    ],
+    "id": 41
+  },
+  {
+    "name": "Note20",
+    "requiredPowers": [
+      152,
+      208,
+      1152,
+      32896
+    ],
+    "id": 42
+  },
+  {
+    "name": "Note21",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 119
+  },
+  {
+    "name": "Note22",
+    "requiredPowers": [
+      1184,
+      5248,
+      1664,
+      32896
+    ],
+    "id": 73
+  },
+  {
+    "name": "Note23",
+    "requiredPowers": [
+      1316,
+      1796,
+      32768
+    ],
+    "id": 79
+  },
+  {
+    "name": "Note24",
+    "requiredPowers": [
+      28,
+      84,
+      1028,
+      32768
+    ],
+    "id": 17
+  },
+  {
+    "name": "Note25",
+    "requiredPowers": [
+      640,
+      1152,
+      4224,
+      32896
+    ],
+    "id": 55
+  },
+  {
+    "name": "Note26",
+    "requiredPowers": [
+      45184
+    ],
+    "id": 117
+  },
+  {
+    "name": "Note27",
+    "requiredPowers": [
+      1060,
+      32768
+    ],
+    "id": 82
+  },
+  {
+    "name": "Note28",
+    "requiredPowers": [
+      152,
+      208,
+      32768
+    ],
+    "id": 37
+  }
+]

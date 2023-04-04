@@ -1,0 +1,627 @@
+[
+  {
+    "name": "DataDisruptor",
+    "powers": 1,
+    "id": 1
+  },
+  {
+    "name": "DataGrenade",
+    "powers": 1,
+    "id": 96
+  },
+  {
+    "name": "FireWall",
+    "powers": 1,
+    "id": 21
+  },
+  {
+    "name": "InertialPulse",
+    "powers": 1,
+    "id": 50
+  },
+  {
+    "name": "IonBeam",
+    "powers": 1,
+    "id": 109
+  },
+  {
+    "name": "LightningGun",
+    "powers": 1,
+    "id": 85
+  },
+  {
+    "name": "MultiDisruptor",
+    "powers": 1,
+    "id": 6
+  },
+  {
+    "name": "Reflect",
+    "powers": 1,
+    "id": 65
+  },
+  {
+    "name": "Shards",
+    "powers": 1,
+    "id": 90
+  },
+  {
+    "name": "Swim",
+    "powers": 1,
+    "id": 124
+  },
+  {
+    "name": "TriCone",
+    "powers": 1,
+    "id": 97
+  },
+  {
+    "name": "Voranj",
+    "powers": 1,
+    "id": 43
+  },
+  {
+    "name": "Nova",
+    "powers": 3,
+    "id": 2
+  },
+  {
+    "name": "TetheredCharge",
+    "powers": 1,
+    "id": 58
+  },
+  {
+    "name": "VerticalSpread",
+    "powers": 11,
+    "id": 45
+  },
+  {
+    "name": "WallTrace",
+    "powers": 11,
+    "id": 121
+  },
+  {
+    "name": "DistortionField",
+    "powers": 11,
+    "id": 94
+  },
+  {
+    "name": "FlameThrower",
+    "powers": 131083,
+    "id": 123
+  },
+  {
+    "name": "Kilver",
+    "powers": 11,
+    "id": 9
+  },
+  {
+    "name": "Scythe",
+    "powers": 11,
+    "id": 118
+  },
+  {
+    "name": "FatBeam",
+    "powers": 393227,
+    "id": 21
+  },
+  {
+    "name": "HeatSeeker",
+    "powers": 1,
+    "id": 22
+  },
+  {
+    "name": "WebSlicer",
+    "powers": 131083,
+    "id": 23
+  },
+  {
+    "name": "AddressDisruptor1",
+    "powers": 16,
+    "id": 11
+  },
+  {
+    "name": "AddressDisruptor2",
+    "powers": 524560,
+    "id": 47
+  },
+  {
+    "name": "Drill",
+    "powers": 4,
+    "id": 4
+  },
+  {
+    "name": "DroneGun",
+    "powers": 135,
+    "id": 34
+  },
+  {
+    "name": "GlitchBomb",
+    "powers": 2320,
+    "id": 83
+  },
+  {
+    "name": "Grapple",
+    "powers": 512,
+    "id": 54
+  },
+  {
+    "name": "HighJump",
+    "powers": 32,
+    "id": 20
+  },
+  {
+    "name": "GlitchTeleport",
+    "powers": 64,
+    "id": 24
+  },
+  {
+    "name": "RedCoat",
+    "powers": 33856,
+    "id": 108
+  },
+  {
+    "name": "BlackCoat",
+    "powers": 1088,
+    "id": 67
+  },
+  {
+    "name": "BreachSuppressor",
+    "powers": 16384,
+    "id": 105
+  },
+  {
+    "name": "EnhancedLaunch",
+    "powers": 8192,
+    "id": 66
+  },
+  {
+    "name": "DroneTeleport",
+    "powers": 4096,
+    "id": 92
+  },
+  {
+    "name": "PasswordTool",
+    "powers": 65536,
+    "id": 40
+  },
+  {
+    "name": "TendrilsTop",
+    "powers": 0,
+    "id": 29
+  },
+  {
+    "name": "TendrilsBottom",
+    "powers": 0,
+    "id": 101
+  },
+  {
+    "name": "HealthNode1",
+    "powers": 0,
+    "id": 7
+  },
+  {
+    "name": "HealthNode2",
+    "powers": 0,
+    "id": 14
+  },
+  {
+    "name": "HealthNode3",
+    "powers": 0,
+    "id": 32
+  },
+  {
+    "name": "HealthNode4",
+    "powers": 0,
+    "id": 53
+  },
+  {
+    "name": "HealthNode5",
+    "powers": 0,
+    "id": 77
+  },
+  {
+    "name": "HealthNode6",
+    "powers": 0,
+    "id": 88
+  },
+  {
+    "name": "HealthNode7",
+    "powers": 0,
+    "id": 99
+  },
+  {
+    "name": "HealthNode8",
+    "powers": 0,
+    "id": 112
+  },
+  {
+    "name": "HealthNode9",
+    "powers": 0,
+    "id": 84
+  },
+  {
+    "name": "HealthNode10",
+    "powers": 0,
+    "id": 49
+  },
+  {
+    "name": "HealthNode11",
+    "powers": 0,
+    "id": 50
+  },
+  {
+    "name": "HealthNode12",
+    "powers": 0,
+    "id": 51
+  },
+  {
+    "name": "HealthNodeFragment1",
+    "powers": 0,
+    "id": 8
+  },
+  {
+    "name": "HealthNodeFragment2",
+    "powers": 0,
+    "id": 12
+  },
+  {
+    "name": "HealthNodeFragment3",
+    "powers": 0,
+    "id": 18
+  },
+  {
+    "name": "HealthNodeFragment4",
+    "powers": 0,
+    "id": 10
+  },
+  {
+    "name": "HealthNodeFragment5",
+    "powers": 0,
+    "id": 39
+  },
+  {
+    "name": "HealthNodeFragment6",
+    "powers": 0,
+    "id": 38
+  },
+  {
+    "name": "HealthNodeFragment7",
+    "powers": 0,
+    "id": 30
+  },
+  {
+    "name": "HealthNodeFragment8",
+    "powers": 0,
+    "id": 46
+  },
+  {
+    "name": "HealthNodeFragment9",
+    "powers": 0,
+    "id": 52
+  },
+  {
+    "name": "HealthNodeFragment10",
+    "powers": 0,
+    "id": 44
+  },
+  {
+    "name": "HealthNodeFragment11",
+    "powers": 0,
+    "id": 61
+  },
+  {
+    "name": "HealthNodeFragment12",
+    "powers": 0,
+    "id": 60
+  },
+  {
+    "name": "HealthNodeFragment13",
+    "powers": 0,
+    "id": 56
+  },
+  {
+    "name": "HealthNodeFragment14",
+    "powers": 0,
+    "id": 23
+  },
+  {
+    "name": "HealthNodeFragment15",
+    "powers": 0,
+    "id": 125
+  },
+  {
+    "name": "HealthNodeFragment16",
+    "powers": 0,
+    "id": 76
+  },
+  {
+    "name": "HealthNodeFragment17",
+    "powers": 0,
+    "id": 107
+  },
+  {
+    "name": "HealthNodeFragment18",
+    "powers": 0,
+    "id": 80
+  },
+  {
+    "name": "HealthNodeFragment19",
+    "powers": 0,
+    "id": 93
+  },
+  {
+    "name": "HealthNodeFragment20",
+    "powers": 0,
+    "id": 102
+  },
+  {
+    "name": "PowerNode1",
+    "powers": 0,
+    "id": 5
+  },
+  {
+    "name": "PowerNode2",
+    "powers": 0,
+    "id": 19
+  },
+  {
+    "name": "PowerNode3",
+    "powers": 0,
+    "id": 33
+  },
+  {
+    "name": "PowerNode4",
+    "powers": 0,
+    "id": 62
+  },
+  {
+    "name": "PowerNode5",
+    "powers": 0,
+    "id": 87
+  },
+  {
+    "name": "PowerNode6",
+    "powers": 0,
+    "id": 106
+  },
+  {
+    "name": "PowerNode7",
+    "powers": 0,
+    "id": 78
+  },
+  {
+    "name": "PowerNode8",
+    "powers": 0,
+    "id": 79
+  },
+  {
+    "name": "PowerNode9",
+    "powers": 0,
+    "id": 80
+  },
+  {
+    "name": "PowerNode10",
+    "powers": 0,
+    "id": 81
+  },
+  {
+    "name": "PowerNodeFragment1",
+    "powers": 0,
+    "id": 57
+  },
+  {
+    "name": "PowerNodeFragment2",
+    "powers": 0,
+    "id": 122
+  },
+  {
+    "name": "PowerNodeFragment3",
+    "powers": 0,
+    "id": 36
+  },
+  {
+    "name": "PowerNodeFragment4",
+    "powers": 0,
+    "id": 86
+  },
+  {
+    "name": "PowerNodeFragment5",
+    "powers": 0,
+    "id": 48
+  },
+  {
+    "name": "PowerNodeFragment6",
+    "powers": 0,
+    "id": 49
+  },
+  {
+    "name": "PowerNodeFragment7",
+    "powers": 0,
+    "id": 13
+  },
+  {
+    "name": "PowerNodeFragment8",
+    "powers": 0,
+    "id": 51
+  },
+  {
+    "name": "PowerNodeFragment9",
+    "powers": 0,
+    "id": 69
+  },
+  {
+    "name": "PowerNodeFragment10",
+    "powers": 0,
+    "id": 110
+  },
+  {
+    "name": "PowerNodeFragment11",
+    "powers": 0,
+    "id": 113
+  },
+  {
+    "name": "PowerNodeFragment12",
+    "powers": 0,
+    "id": 115
+  },
+  {
+    "name": "PowerNodeFragment13",
+    "powers": 0,
+    "id": 75
+  },
+  {
+    "name": "PowerNodeFragment14",
+    "powers": 0,
+    "id": 64
+  },
+  {
+    "name": "PowerNodeFragment15",
+    "powers": 0,
+    "id": 74
+  },
+  {
+    "name": "PowerNodeFragment16",
+    "powers": 0,
+    "id": 71
+  },
+  {
+    "name": "PowerNodeFragment17",
+    "powers": 0,
+    "id": 100
+  },
+  {
+    "name": "PowerNodeFragment18",
+    "powers": 0,
+    "id": 111
+  },
+  {
+    "name": "PowerNodeFragment19",
+    "powers": 0,
+    "id": 100
+  },
+  {
+    "name": "PowerNodeFragment20",
+    "powers": 0,
+    "id": 101
+  },
+  {
+    "name": "PowerNodeFragment21",
+    "powers": 0,
+    "id": 102
+  },
+  {
+    "name": "PowerNodeFragment22",
+    "powers": 0,
+    "id": 103
+  },
+  {
+    "name": "PowerNodeFragment23",
+    "powers": 0,
+    "id": 104
+  },
+  {
+    "name": "PowerNodeFragment24",
+    "powers": 0,
+    "id": 105
+  },
+  {
+    "name": "PowerNodeFragment25",
+    "powers": 0,
+    "id": 106
+  },
+  {
+    "name": "PowerNodeFragment26",
+    "powers": 0,
+    "id": 107
+  },
+  {
+    "name": "PowerNodeFragment27",
+    "powers": 0,
+    "id": 108
+  },
+  {
+    "name": "PowerNodeFragment28",
+    "powers": 0,
+    "id": 109
+  },
+  {
+    "name": "PowerNodeFragment29",
+    "powers": 0,
+    "id": 110
+  },
+  {
+    "name": "PowerNodeFragment30",
+    "powers": 0,
+    "id": 111
+  },
+  {
+    "name": "Note6",
+    "powers": 0,
+    "id": 114
+  },
+  {
+    "name": "Note19",
+    "powers": 0,
+    "id": 41
+  },
+  {
+    "name": "Note20",
+    "powers": 0,
+    "id": 42
+  },
+  {
+    "name": "Note27",
+    "powers": 0,
+    "id": 82
+  },
+  {
+    "name": "SizeNode1",
+    "powers": 0,
+    "id": 3
+  },
+  {
+    "name": "SizeNode2",
+    "powers": 0,
+    "id": 15
+  },
+  {
+    "name": "SizeNode3",
+    "powers": 0,
+    "id": 31
+  },
+  {
+    "name": "SizeNode4",
+    "powers": 0,
+    "id": 116
+  },
+  {
+    "name": "SizeNode5",
+    "powers": 0,
+    "id": 120
+  },
+  {
+    "name": "RangeNode1",
+    "powers": 0,
+    "id": 27
+  },
+  {
+    "name": "RangeNode2",
+    "powers": 0,
+    "id": 28
+  },
+  {
+    "name": "RangeNode3",
+    "powers": 0,
+    "id": 89
+  },
+  {
+    "name": "RangeNode4",
+    "powers": 0,
+    "id": 68
+  },
+  {
+    "name": "RangeNode5",
+    "powers": 0,
+    "id": 125
+  }
+]
