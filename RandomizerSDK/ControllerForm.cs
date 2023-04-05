@@ -27,10 +27,10 @@ namespace RandomizerSDK
                     var path = $"logs/randomizer{i}.log";
 
                     if ((int)IterationCount.Value == 1 && File.Exists(path)) File.Delete(path);
-                    Randomizer<Powers> randomizer = new Randomizer<Powers>(Path.GetDirectoryName(Application.ExecutablePath), Difficulty.SelectedIndex);
+                    Randomizer<Powers> randomizer = new Randomizer<Powers>(Path.GetDirectoryName(Application.ExecutablePath), Difficulty.SelectedIndex, path);
                     while (randomizer.GetRandomizedItems().Count < 125)
                     {
-                        randomizer.GenerateItems(path, (long)SeedValue.Value);
+                        randomizer.GenerateItems(randomizer, (long)SeedValue.Value);
                     }
                     string logDirectory = "logs";
                     string logFilePath = $"logs/locations_{i}.log";
@@ -49,11 +49,11 @@ namespace RandomizerSDK
             var path = $"logs/randomizer.log";
             Map? m = null;
             if ((int)IterationCount.Value == 1 && File.Exists(path)) File.Delete(path);
-            Randomizer<Powers> randomizer = new Randomizer<Powers>(Path.GetDirectoryName(Application.ExecutablePath), Difficulty.SelectedIndex);
+            Randomizer<Powers> randomizer = new Randomizer<Powers>(Path.GetDirectoryName(Application.ExecutablePath), Difficulty.SelectedIndex, path);
             if (ShowMap.Checked) m = new Map(randomizer);
             while (randomizer.GetRandomizedItems().Count < 125)
             {
-                randomizer.GenerateItems(path, (long)SeedValue.Value);
+                randomizer.GenerateItems(randomizer, (long)SeedValue.Value);
             }
             string logDirectory = "logs";
             string logFilePath = $"logs/locations.log";
