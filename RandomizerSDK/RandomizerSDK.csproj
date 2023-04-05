@@ -14,7 +14,7 @@
   </ItemGroup>
   <ItemGroup>
   <Reference Include="GameRandomizer">
-    <HintPath>C:\Users\User\source\repos\GameRandomizer\GameRandomizer\bin\Debug\net6.0\GameRandomizer.dll</HintPath>
+    <HintPath>..\..\GameRandomizer\GameRandomizer\bin\Debug\net6.0\GameRandomizer.dll</HintPath>
   </Reference>
 </ItemGroup>
   <ItemGroup>
